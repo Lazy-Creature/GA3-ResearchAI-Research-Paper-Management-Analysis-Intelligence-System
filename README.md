@@ -1,6 +1,7 @@
 # 📚 ResearchAI – Research Paper Management & Analysis Intelligence System  
 
 > An Enterprise-Grade GenAI Research Assistant for Academic Knowledge Discovery
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/4cc2fb0d-c1c9-4d79-a0f2-a17fca5b2e79" />
 
 ---
 
